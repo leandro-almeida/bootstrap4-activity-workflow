@@ -50,3 +50,6 @@ gulp.task('html:watch', function() {
 gulp.task('js:watch', function() {
 	gulp.watch(JS_SRC, ['js-uglify']);
 });
+
+// Watches everything
+gulp.task('watch-all', ['sass:watch', 'html:watch', 'js:watch']);
