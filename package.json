@@ -1,6 +1,7 @@
 {
   "name": "bootstrap4-class01-boilerplate",
   "version": "1.0.0",
+  "author": "leandroalmeida <almeida85@gmail.com>",
   "description": "Creating the boilerplate code for startuping the project infrastructure.",
   "main": "index.js",
   "scripts": {
